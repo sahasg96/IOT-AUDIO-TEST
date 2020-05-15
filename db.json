@@ -5,9 +5,10 @@
 
   {
 
-    "DEVICE_ID" : "12345",
-
-    "UTC_OFF" : "19800"
+    "DEVICE_ID" : "DEVICE0001",
+    "UTC_OFF" : "19800",
+    "HB_SYNC_OFF" : "60",
+    "HB_SYNC_BASE" : "0"
 
   }
 
